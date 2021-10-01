@@ -1,4 +1,4 @@
-# Projeto que sobe ontainer Docker com ReactJs
+# Projeto que sobe container Docker com ReactJs
 -Descrição curta sobre o que seu projeto faz.-
 > Usa uma imagem docker com linux-alpine para criar o ambiente de desenvolvimento com ReactJs
 
